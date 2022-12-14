@@ -1,9 +1,8 @@
-# FlappyBird
+# FlappyJokes
 
-This is FlappyBird re-implementation of [Godot Engine Tutorial - Flappy Bird](https://bitbucket.org/EdwardAngeles/godot-engine-tutorial-flappy-bird) in godot 3.2
+This is a Flappy Bird clone/retexture made in godot! you control a jokesbird. play it just like you would normaly
 
-## Notice
-All the assets in this game are taken from original tutorials and Author did not mention the license. If the auther or copyright holder would like for the assets to be removed, please open an issue.
+## BUILDING FROM SOURCE
+Required: Godot ( https://godotengine.org/ ) Unzipping tool (Mac: builtin Windows: 7Zip reccomended) Before you open the godot project, unzip assets.zip (textures for the game) and then open it in Godot. Click Export and then choose the platform you want to build it for. Don't click Export PCK/Zip, instead click the other one!
 
-## License
-Source code is provided under [MIT](https://choosealicense.com/licenses/mit/)
+
